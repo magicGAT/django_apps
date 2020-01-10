@@ -1,0 +1,13 @@
+# File names to be ignored by github. This prevents sensitive files from
+# being posted publicly online
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+/media
+/static
+
